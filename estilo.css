@@ -1,0 +1,5 @@
+@import url("index_pc.css") screen and (min-width: 992px);
+
+@import url("index_celular.css") screen and (max-width: 480px);
+
+@import url("index_tablet.css") screen and (min-width: 481px) and (max-width: 992px);
